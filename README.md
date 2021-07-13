@@ -1,5 +1,7 @@
-# storytelling-with-data (Python + matplotlib)
+# Traduzindo storytelling-with-data (Python + matplotlib) PT/BR
 http://www.storytellingwithdata.com/book/
+
+Meu objetivo é tornar mais claro os códigos para que eu entenda melhor como funciona os gráficos plotados. Preciso ressaltar que o projeto não é meu, o readme abaixo fornece os créditos. Apenas vou estudar o repositório
 
 <img src="images/storytelling.jpeg">
 
