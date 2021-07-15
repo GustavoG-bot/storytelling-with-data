@@ -65,8 +65,10 @@ Here I have implemented few graphs from the book using Python and matplotlib lib
 :---------------------------------:|:---------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
 ![](images/colors/green/GREEN1.png)|![](images/colors/green/GREEN2.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|
 
--->
+
 ## ORANGE
 |#F79747  ORANGE1. Tan Hide          |                                  |                                  |                                  |                                  |                                  |                                  |                                  |                                  |
 :-----------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
 ![](images/colors/orange/ORANGE1.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|
+
+-->
