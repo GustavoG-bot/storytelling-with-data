@@ -1,7 +1,9 @@
 # Traduzindo storytelling-with-data (Python + matplotlib) PT/BR
 http://www.storytellingwithdata.com/book/
 
-Meu objetivo é tornar mais claro os códigos para que eu entenda melhor como funciona os gráficos plotados. Preciso ressaltar que o projeto não é meu, o readme abaixo fornece os créditos. Apenas vou estudar o repositório
+Meu objetivo é tornar mais claro os códigos para que eu entenda melhor como funciona os gráficos plotados. Preciso ressaltar que o projeto não é meu, o readme abaixo fornece os créditos. Apenas vou estudar o repositório. Para mais informações sobre a autora acesse o site acima.
+
+<!--- Códigos das imagens
 
 <img src="images/storytelling.jpeg">
 
@@ -63,7 +65,7 @@ Here I have implemented few graphs from the book using Python and matplotlib lib
 :---------------------------------:|:---------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
 ![](images/colors/green/GREEN1.png)|![](images/colors/green/GREEN2.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|
 
-
+-->
 ## ORANGE
 |#F79747  ORANGE1. Tan Hide          |                                  |                                  |                                  |                                  |                                  |                                  |                                  |                                  |
 :-----------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
